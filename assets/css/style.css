@@ -140,7 +140,7 @@ nav ul {
     flex: 0 0 80%;
 }
 
-.page-section p {
+.page-section p, .page-section ul {
     margin: 20px;
 }
 
