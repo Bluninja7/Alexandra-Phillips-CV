@@ -15,7 +15,7 @@ b# Alexandra Phillips CV
 - N/A
 
 # Link
-- https://bluninja7.github.io/Alexandra-Phillips-CV/
+- https://bluninja7.github.io/Alexandra-Phillips-CV-Refactor/
 
 
 # Project Title
